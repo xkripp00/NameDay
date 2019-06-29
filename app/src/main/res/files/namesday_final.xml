@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:namesday xmlns:ns2="calendar">
+    <namesday>
+        <day date="0101">
+            <skHoliday>Deň vzniku Slovenskej republiky</skHoliday>
+            <czHoliday>Den obnovy samostatného českého státu</czHoliday>
+        </day>
+        <day date="0201">
+            <sk>Alexandra, Karina</sk>
+            <cz>Karina</cz>
+        </day>
+        <day date="0301">
+            <sk>Daniela</sk>
+            <cz>Radmila</cz>
+        </day>
+        <day date="0401">
+            <sk>Drahoslav</sk>
+            <cz>Diana</cz>
+        </day>
+        <day date="0501">
+            <sk>Andrea</sk>
+            <cz>Dalimil</cz>
+        </day>
+        <day date="0601">
+            <sk>Antónia</sk>
+            <skHoliday>Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)</skHoliday>
+        </day>
+        <day date="0701">
+            <sk>Bohuslava</sk>
+            <cz>Vilma</cz>
+        </day>
+        <day date="0801">
+            <sk>Severín</sk>
+            <cz>Čestmir</cz>
+        </day>
+        <day date="0901">
+            <sk>Alexej</sk>
+            <cz>Vladan</cz>
+        </day>
+        <day date="1001">
+            <sk>Dáša</sk>
+            <cz>Břetislav</cz>
+        </day>
+        <day date="1101">
+            <sk>Malvína</sk>
+            <cz>Bohdana</cz>
+        </day>
+        <day date="1201">
+            <sk>Ernest</sk>
+            <cz>Pravoslav</cz>
+        </day>
+        <day date="1301">
+            <sk>Rastislav</sk>
+            <cz>Edita</cz>
+        </day>
+        <day date="1401">
+            <sk>Radovan</sk>
+            <cz>Radovan</cz>
+        </day>
+        <day date="1501">
+            <sk>Dobroslav</sk>
+            <cz>Alice</cz>
+        </day>
+        <day date="1601">
+            <sk>Kristína</sk>
+            <cz>Ctirad</cz>
+        </day>
+        <day date="1701">
+            <sk>Nataša</sk>
+            <cz>Drahoslav</cz>
+        </day>
+        <day date="1801">
+            <sk>Bohdana</sk>
+            <cz>Vladislav</cz>
+        </day>
+        <day date="1901">
+            <sk>Drahomíra, Mário</sk>
+            <cz>Doubravka</cz>
+        </day>
+        <day date="2001">
+            <sk>Dalibor</sk>
+            <cz>Ilona</cz>
+        </day>
+        <day date="2101">
+            <sk>Vincent</sk>
+            <cz>Běla</cz>
+        </day>
+        <day date="2201">
+            <sk>Zora</sk>
+            <cz>Slavomir</cz>
+        </day>
+        <day date="2301">
+            <sk>Miloš</sk>
+            <cz>Zdeněk</cz>
+        </day>
+        <day date="2401">
+            <sk>Timotej</sk>
+            <cz>Milena</cz>
+        </day>
+        <day date="2501">
+            <sk>Gejza</sk>
+            <cz>Miloš</cz>
+        </day>
+        <day date="2601">
+            <sk>Tamara</sk>
+            <cz>Zora</cz>
+        </day>
+        <day date="2701">
+            <sk>Bohuš</sk>
+            <cz>Ingrid</cz>
+        </day>
+        <day date="2801">
+            <sk>Alfonz</sk>
+            <cz>Otýlie</cz>
+        </day>
+        <day date="2901">
+            <sk>Gašpar</sk>
+            <cz>Zdislava</cz>
+        </day>
+        <day date="3001">
+            <sk>Ema</sk>
+            <cz>Robin</cz>
+        </day>
+        <day date="3101">
+            <sk>Emil</sk>
+            <cz>Marika</cz>
+        </day>
+        <day date="0102">
+            <sk>Tatiana</sk>
+            <cz>Hynek</cz>
+        </day>
+        <day date="0202">
+            <sk>Erika, Erik</sk>
+            <cz>Nela</cz>
+        </day>
+        <day date="0302">
+            <sk>Blažej</sk>
+            <cz>Blažej</cz>
+        </day>
+        <day date="0402">
+            <sk>Veronika</sk>
+            <cz>Jarmila</cz>
+        </day>
+        <day date="0502">
+            <sk>Agáta</sk>
+            <cz>Dobromila</cz>
+        </day>
+        <day date="0602">
+            <sk>Dorota</sk>
+            <cz>Vanda</cz>
+        </day>
+        <day date="0702">
+            <sk>Vanda</sk>
+            <cz>Veronika</cz>
+        </day>
+        <day date="0802">
+            <sk>Zoja</sk>
+            <cz>Milada</cz>
+        </day>
+        <day date="0902">
+            <sk>Zdenko</sk>
+            <cz>Apolena</cz>
+        </day>
+        <day date="1002">
+            <sk>Gabriela</sk>
+            <cz>Mojmir</cz>
+        </day>
+        <day date="1102">
+            <sk>Dezider</sk>
+            <cz>Božena</cz>
+        </day>
+        <day date="1202">
+            <sk>Perla</sk>
+            <cz>Slavěna</cz>
+        </day>
+        <day date="1302">
+            <sk>Arpád</sk>
+            <cz>Věnceslav</cz>
+        </day>
+        <day date="1402">
+            <sk>Valentín</sk>
+            <cz>Valentýn</cz>
+        </day>
+        <day date="1502">
+            <sk>Pravoslav</sk>
+            <cz>Jiřina</cz>
+        </day>
+        <day date="1602">
+            <sk>Ida, Liana</sk>
+            <cz>Ljuba</cz>
+        </day>
+        <day date="1702">
+            <sk>Miloslava</sk>
+            <cz>Miloslava</cz>
+        </day>
+        <day date="1802">
+            <sk>Jaromír</sk>
+            <cz>Gizela</cz>
+        </day>
+        <day date="1902">
+            <sk>Vlasta</sk>
+            <cz>Patrik</cz>
+        </day>
+        <day date="2002">
+            <sk>Lívia</sk>
+            <cz>Oldřich</cz>
+        </day>
+        <day date="2102">
+            <sk>Eleonóra</sk>
+            <cz>Lenka</cz>
+        </day>
+        <day date="2202">
+            <sk>Etela</sk>
+            <cz>Petr</cz>
+        </day>
+        <day date="2302">
+            <sk>Roman, Romana</sk>
+            <cz>Svatopluk</cz>
+        </day>
+        <day date="2402">
+            <sk>Matej</sk>
+            <cz>Matěj</cz>
+        </day>
+        <day date="2502">
+            <sk>Frederik, Frederika</sk>
+            <cz>Liliana</cz>
+        </day>
+        <day date="2602">
+            <sk>Viktor</sk>
+            <cz>Dorota</cz>
+        </day>
+        <day date="2702">
+            <sk>Alexander</sk>
+            <cz>Alexandr</cz>
+        </day>
+        <day date="2802">
+            <sk>Zlatica</sk>
+            <cz>Lumir</cz>
+        </day>
+        <day date="2902">
+            <sk>Radomír</sk>
+        </day>
+        <day date="0103">
+            <sk>Albín</sk>
+            <cz>Bedřich</cz>
+        </day>
+        <day date="0203">
+            <sk>Anežka</sk>
+            <cz>Anežka</cz>
+        </day>
+        <day date="0303">
+            <sk>Bohumil, Bohumila</sk>
+            <cz>Kamil</cz>
+        </day>
+        <day date="0403">
+            <sk>Kazimír</sk>
+            <cz>Stela</cz>
+        </day>
+        <day date="0503">
+            <sk>Fridrich</sk>
+            <cz>Kazimír</cz>
+        </day>
+        <day date="0603">
+            <sk>Radoslav, Radoslava</sk>
+            <cz>Miroslav</cz>
+        </day>
+        <day date="0703">
+            <sk>Tomáš</sk>
+            <cz>Tomáš</cz>
+        </day>
+        <day date="0803">
+            <sk>Alan, Alana</sk>
+            <cz>Gabriela</cz>
+        </day>
+        <day date="0903">
+            <sk>Františka</sk>
+            <cz>Františka</cz>
+        </day>
+        <day date="1003">
+            <sk>Bruno, Branislav</sk>
+            <cz>Viktorie</cz>
+        </day>
+        <day date="1103">
+            <sk>Angela, Angelika</sk>
+            <cz>Anděla</cz>
+        </day>
+        <day date="1203">
+            <sk>Gregor</sk>
+            <cz>Řehoř</cz>
+        </day>
+        <day date="1303">
+            <sk>Vlastimil</sk>
+            <cz>Růžena</cz>
+        </day>
+        <day date="1403">
+            <sk>Matilda</sk>
+            <cz>Matylda, Růt</cz>
+        </day>
+        <day date="1503">
+            <sk>Svetlana</sk>
+            <cz>Ida</cz>
+        </day>
+        <day date="1603">
+            <sk>Boleslav</sk>
+            <cz>Elena, Herbert</cz>
+        </day>
+        <day date="1703">
+            <sk>Ľubica</sk>
+            <cz>Vlastimil</cz>
+        </day>
+        <day date="1803">
+            <sk>Eduard</sk>
+            <cz>Eduard</cz>
+        </day>
+        <day date="1903">
+            <sk>Jozef</sk>
+            <cz>Josef</cz>
+        </day>
+        <day date="2003">
+            <sk>Víťazoslav, Klaudius</sk>
+            <cz>Světlana</cz>
+        </day>
+        <day date="2103">
+            <sk>Blahoslav</sk>
+            <cz>Radek</cz>
+        </day>
+        <day date="2203">
+            <sk>Beňadik</sk>
+            <cz>Leona</cz>
+        </day>
+        <day date="2303">
+            <sk>Adrián</sk>
+            <cz>Ivona</cz>
+        </day>
+        <day date="2403">
+            <sk>Gabriel</sk>
+            <cz>Gabriel</cz>
+        </day>
+        <day date="2503">
+            <sk>Marián</sk>
+            <cz>Marián</cz>
+        </day>
+        <day date="2603">
+            <sk>Emanuel</sk>
+            <cz>Emanuel</cz>
+        </day>
+        <day date="2703">
+            <sk>Alena</sk>
+            <cz>Dita</cz>
+        </day>
+        <day date="2803">
+            <sk>Soňa</sk>
+            <cz>Soňa</cz>
+        </day>
+        <day date="2903">
+            <sk>Miroslav</sk>
+            <cz>Taťána</cz>
+        </day>
+        <day date="3003">
+            <sk>Vieroslava</sk>
+            <cz>Arnošt</cz>
+        </day>
+        <day date="3103">
+            <sk>Benjamín</sk>
+            <cz>Kvido</cz>
+        </day>
+        <day date="0104">
+            <sk>Hugo</sk>
+            <cz>Hugo</cz>
+        </day>
+        <day date="0204">
+            <sk>Zita</sk>
+            <cz>Erika</cz>
+        </day>
+        <day date="0304">
+            <sk>Richard</sk>
+            <cz>Richard</cz>
+        </day>
+        <day date="0404">
+            <sk>Izidor</sk>
+            <cz>Ivana</cz>
+        </day>
+        <day date="0504">
+            <sk>Miroslava</sk>
+            <cz>Miroslava</cz>
+        </day>
+        <day date="0604">
+            <sk>Irena</sk>
+            <cz>Vendula</cz>
+        </day>
+        <day date="0704">
+            <sk>Zoltán</sk>
+            <cz>Heřman, Hermína</cz>
+        </day>
+        <day date="0804">
+            <sk>Albert</sk>
+            <cz>Ema</cz>
+        </day>
+        <day date="0904">
+            <sk>Milena</sk>
+            <cz>Dušan</cz>
+        </day>
+        <day date="1004">
+            <sk>Igor</sk>
+            <cz>Darja</cz>
+        </day>
+        <day date="1104">
+            <sk>Július</sk>
+            <cz>Izabela</cz>
+        </day>
+        <day date="1204">
+            <sk>Estera</sk>
+            <cz>Julius</cz>
+        </day>
+        <day date="1304">
+            <sk>Aleš</sk>
+            <cz>Aleš</cz>
+        </day>
+        <day date="1404">
+            <sk>Justina</sk>
+            <cz>Vincenc</cz>
+        </day>
+        <day date="1504">
+            <sk>Fedor</sk>
+            <cz>Anastázie</cz>
+        </day>
+        <day date="1604">
+            <sk>Dana, Danica</sk>
+            <cz>Irena</cz>
+        </day>
+        <day date="1704">
+            <sk>Rudolf</sk>
+            <cz>Rudolf</cz>
+        </day>
+        <day date="1804">
+            <sk>Valér</sk>
+            <cz>Valérie</cz>
+        </day>
+        <day date="1904">
+            <sk>Jela</sk>
+            <cz>Rostislav</cz>
+        </day>
+        <day date="2004">
+            <sk>Marcel</sk>
+            <cz>Marcela</cz>
+        </day>
+        <day date="2104">
+            <sk>Ervín</sk>
+            <cz>Alexandra</cz>
+        </day>
+        <day date="2204">
+            <sk>Slavomír</sk>
+            <cz>Evžénie</cz>
+        </day>
+        <day date="2304">
+            <sk>Vojtech</sk>
+            <cz>Vojtěch</cz>
+        </day>
+        <day date="2404">
+            <sk>Juraj</sk>
+            <cz>Jiří</cz>
+        </day>
+        <day date="2504">
+            <sk>Marek</sk>
+            <cz>Marek</cz>
+        </day>
+        <day date="2604">
+            <sk>Jaroslava</sk>
+            <cz>Oto</cz>
+        </day>
+        <day date="2704">
+            <sk>Jaroslav</sk>
+            <cz>Jaroslav</cz>
+        </day>
+        <day date="2804">
+            <sk>Jarmila</sk>
+            <cz>Vlastislav</cz>
+        </day>
+        <day date="2904">
+            <sk>Lea</sk>
+            <cz>Robert</cz>
+        </day>
+        <day date="3004">
+            <sk>Anastázia</sk>
+            <cz>Blahoslav</cz>
+        </day>
+        <day date="0105">
+            <skHoliday>Sviatok práce</skHoliday>
+            <czHoliday>Svátek práce</czHoliday>
+        </day>
+        <day date="0205">
+            <sk>Žigmund</sk>
+            <cz>Zigmund</cz>
+        </day>
+        <day date="0305">
+            <sk>Galina</sk>
+            <cz>Alexej</cz>
+        </day>
+        <day date="0405">
+            <sk>Florián</sk>
+            <cz>Květoslav</cz>
+        </day>
+        <day date="0505">
+            <sk>Lesia, Lesana</sk>
+            <cz>Klaudie</cz>
+        </day>
+        <day date="0605">
+            <sk>Hermína</sk>
+            <cz>Radoslav</cz>
+        </day>
+        <day date="0705">
+            <sk>Monika</sk>
+            <cz>Stanislav</cz>
+        </day>
+        <day date="0805">
+            <sk>Ingrida</sk>
+            <skHoliday>Deň víťazstva nad fašizmom</skHoliday>
+            <czHoliday>Den osvobození od fašismu - 1945</czHoliday>
+        </day>
+        <day date="0905">
+            <sk>Roland</sk>
+            <cz>Ctibor</cz>
+        </day>
+        <day date="1005">
+            <sk>Viktória</sk>
+            <cz>Blažena</cz>
+        </day>
+        <day date="1105">
+            <sk>Blažena</sk>
+            <cz>Svatava</cz>
+        </day>
+        <day date="1205">
+            <sk>Pankrác</sk>
+            <cz>Pankrác</cz>
+        </day>
+        <day date="1305">
+            <sk>Servác</sk>
+            <cz>Servác</cz>
+        </day>
+        <day date="1405">
+            <sk>Bonifác</sk>
+            <cz>Bonifác</cz>
+        </day>
+        <day date="1505">
+            <sk>Žofia, Sofia</sk>
+            <cz>Žofie</cz>
+        </day>
+        <day date="1605">
+            <sk>Svetozár</sk>
+            <cz>Přemysl</cz>
+        </day>
+        <day date="1705">
+            <sk>Gizela</sk>
+            <cz>Aneta</cz>
+        </day>
+        <day date="1805">
+            <sk>Viola</sk>
+            <cz>Nataša</cz>
+        </day>
+        <day date="1905">
+            <sk>Gertrúda</sk>
+            <cz>Ivo</cz>
+        </day>
+        <day date="2005">
+            <sk>Bernard</sk>
+            <cz>Zbyšek</cz>
+        </day>
+        <day date="2105">
+            <sk>Zina</sk>
+            <cz>Monika</cz>
+        </day>
+        <day date="2205">
+            <sk>Júlia, Juliana</sk>
+            <cz>Emil</cz>
+        </day>
+        <day date="2305">
+            <sk>Želmíra</sk>
+            <cz>Vladimír</cz>
+        </day>
+        <day date="2405">
+            <sk>Ela</sk>
+            <cz>Jana, Vanesa</cz>
+        </day>
+        <day date="2505">
+            <sk>Urban</sk>
+            <cz>Viola</cz>
+        </day>
+        <day date="2605">
+            <sk>Dušan</sk>
+            <cz>Filip</cz>
+        </day>
+        <day date="2705">
+            <sk>Iveta</sk>
+            <cz>Valdemar</cz>
+        </day>
+        <day date="2805">
+            <sk>Viliam</sk>
+            <cz>Vilém</cz>
+        </day>
+        <day date="2905">
+            <sk>Vilma</sk>
+            <cz>Maxmilián</cz>
+        </day>
+        <day date="3005">
+            <sk>Ferdinand</sk>
+            <cz>Ferdinand</cz>
+        </day>
+        <day date="3105">
+            <sk>Petrana, Petronela</sk>
+            <cz>Kamila</cz>
+        </day>
+        <day date="0106">
+            <sk>Žaneta</sk>
+            <cz>Laura</cz>
+        </day>
+        <day date="0206">
+            <sk>Xénia, Oxana</sk>
+            <cz>Jarmil</cz>
+        </day>
+        <day date="0306">
+            <sk>Karolína</sk>
+            <cz>Tamara</cz>
+        </day>
+        <day date="0406">
+            <sk>Lenka</sk>
+            <cz>Dalibor</cz>
+        </day>
+        <day date="0506">
+            <sk>Laura</sk>
+            <cz>Dobroslav</cz>
+        </day>
+        <day date="0606">
+            <sk>Norbert</sk>
+            <cz>Norbert</cz>
+        </day>
+        <day date="0706">
+            <sk>Róbert</sk>
+            <cz>Iveta, Slavoj</cz>
+        </day>
+        <day date="0806">
+            <sk>Medard</sk>
+            <cz>Medard</cz>
+        </day>
+        <day date="0906">
+            <sk>Stanislava</sk>
+            <cz>Stanislava</cz>
+        </day>
+        <day date="1006">
+            <sk>Margaréta</sk>
+            <cz>Gita</cz>
+        </day>
+        <day date="1106">
+            <sk>Dobroslava</sk>
+            <cz>Bruno</cz>
+        </day>
+        <day date="1206">
+            <sk>Zlatko</sk>
+            <cz>Antonie</cz>
+        </day>
+        <day date="1306">
+            <sk>Anton</sk>
+            <cz>Antonin</cz>
+        </day>
+        <day date="1406">
+            <sk>Vasil</sk>
+            <cz>Roland</cz>
+        </day>
+        <day date="1506">
+            <sk>Vít</sk>
+            <cz>Vít</cz>
+        </day>
+        <day date="1606">
+            <sk>Blanka, Bianka</sk>
+            <cz>Zbyněk</cz>
+        </day>
+        <day date="1706">
+            <sk>Adolf</sk>
+            <cz>Adolf</cz>
+        </day>
+        <day date="1806">
+            <sk>Vratislav</sk>
+            <cz>Milan</cz>
+        </day>
+        <day date="1906">
+            <sk>Alfréd</sk>
+            <cz>Leoš</cz>
+        </day>
+        <day date="2006">
+            <sk>Valéria</sk>
+            <cz>Květa</cz>
+        </day>
+        <day date="2106">
+            <sk>Alojz</sk>
+            <cz>Alois</cz>
+        </day>
+        <day date="2206">
+            <sk>Paulína</sk>
+            <cz>Pavla</cz>
+        </day>
+        <day date="2306">
+            <sk>Sidónia</sk>
+            <cz>Zdeňka</cz>
+        </day>
+        <day date="2406">
+            <sk>Ján</sk>
+            <cz>Jan</cz>
+        </day>
+        <day date="2506">
+            <sk>Olívia, Tadeáš</sk>
+            <cz>Ivan</cz>
+        </day>
+        <day date="2606">
+            <sk>Adriána</sk>
+            <cz>Adriana</cz>
+        </day>
+        <day date="2706">
+            <sk>Ladislav, Ladislava</sk>
+            <cz>Ladislav</cz>
+        </day>
+        <day date="2806">
+            <sk>Beáta</sk>
+            <cz>Lubomir</cz>
+        </day>
+        <day date="2906">
+            <sk>Peter, Pavol, Petra</sk>
+            <cz>Petr, Pavel</cz>
+        </day>
+        <day date="3006">
+            <sk>Melánia</sk>
+            <cz>Šárka</cz>
+        </day>
+        <day date="0107">
+            <sk>Diana</sk>
+            <cz>Jaroslava</cz>
+        </day>
+        <day date="0207">
+            <sk>Berta</sk>
+            <cz>Patricie</cz>
+        </day>
+        <day date="0307">
+            <sk>Miloslav</sk>
+            <cz>Radomir</cz>
+        </day>
+        <day date="0407">
+            <sk>Prokop</sk>
+            <cz>Prokop</cz>
+        </day>
+        <day date="0507">
+            <sk>Cyril, Metod</sk>
+            <cz>Cyril, Metoděj</cz>
+            <skHoliday>Sviatok svätého Cyrila a Metoda</skHoliday>
+            <czHoliday>Den slovanských věrozvestú Cyrila a Metodeje</czHoliday>
+        </day>
+        <day date="0607">
+            <sk>Patrik, Patrícia</sk>
+            <czHoliday>Den upálení mistra Jana Husa - 1415</czHoliday>
+        </day>
+        <day date="0707">
+            <sk>Oliver</sk>
+            <cz>Bohuslava</cz>
+        </day>
+        <day date="0807">
+            <sk>Ivan</sk>
+            <cz>Nora</cz>
+        </day>
+        <day date="0907">
+            <sk>Lujza</sk>
+            <cz>Drahoslava</cz>
+        </day>
+        <day date="1007">
+            <sk>Amália</sk>
+            <cz>Libuše, Amálie</cz>
+        </day>
+        <day date="1107">
+            <sk>Milota</sk>
+            <cz>Olga</cz>
+        </day>
+        <day date="1207">
+            <sk>Nina</sk>
+            <cz>Bořek</cz>
+        </day>
+        <day date="1307">
+            <sk>Margita</sk>
+            <cz>Markéta</cz>
+        </day>
+        <day date="1407">
+            <sk>Kamil</sk>
+            <cz>Karolína</cz>
+        </day>
+        <day date="1507">
+            <sk>Henrich</sk>
+            <cz>Jindřich</cz>
+        </day>
+        <day date="1607">
+            <sk>Drahomír</sk>
+            <cz>Luboš</cz>
+        </day>
+        <day date="1707">
+            <sk>Bohuslav</sk>
+            <cz>Martina</cz>
+        </day>
+        <day date="1807">
+            <sk>Kamila</sk>
+            <cz>Drahomira</cz>
+        </day>
+        <day date="1907">
+            <sk>Dušana</sk>
+            <cz>Čeněk</cz>
+        </day>
+        <day date="2007">
+            <sk>Iľja, Eliáš</sk>
+            <cz>Ilja</cz>
+        </day>
+        <day date="2107">
+            <sk>Daniel</sk>
+            <cz>Vítězslav</cz>
+        </day>
+        <day date="2207">
+            <sk>Magdaléna</sk>
+            <cz>Magdaléna</cz>
+        </day>
+        <day date="2307">
+            <sk>Oľga</sk>
+            <cz>Libor</cz>
+        </day>
+        <day date="2407">
+            <sk>Vladimír</sk>
+            <cz>Kristýna</cz>
+        </day>
+        <day date="2507">
+            <sk>Jakub</sk>
+            <cz>Jakub</cz>
+        </day>
+        <day date="2607">
+            <sk>Anna, Hana</sk>
+            <cz>Anna</cz>
+        </day>
+        <day date="2707">
+            <sk>Božena</sk>
+            <cz>Věroslav</cz>
+        </day>
+        <day date="2807">
+            <sk>Krištof</sk>
+            <cz>Viktor</cz>
+        </day>
+        <day date="2907">
+            <sk>Marta</sk>
+            <cz>Marta</cz>
+        </day>
+        <day date="3007">
+            <sk>Libuša</sk>
+            <cz>Bořivoj</cz>
+        </day>
+        <day date="3107">
+            <sk>Ignác</sk>
+            <cz>Ignác</cz>
+        </day>
+        <day date="0108">
+            <sk>Božidara</sk>
+            <cz>Oskar</cz>
+        </day>
+        <day date="0208">
+            <sk>Gustáv</sk>
+            <cz>Gustav</cz>
+        </day>
+        <day date="0308">
+            <sk>Jerguš</sk>
+            <cz>Miluše</cz>
+        </day>
+        <day date="0408">
+            <sk>Dominika, Dominik</sk>
+            <cz>Dominik</cz>
+        </day>
+        <day date="0508">
+            <sk>Hortenzia</sk>
+            <cz>Kristián</cz>
+        </day>
+        <day date="0608">
+            <sk>Jozefína</sk>
+            <cz>Oldriška</cz>
+        </day>
+        <day date="0708">
+            <sk>Štefánia</sk>
+            <cz>Lada</cz>
+        </day>
+        <day date="0808">
+            <sk>Oskar</sk>
+            <cz>Soběslav</cz>
+        </day>
+        <day date="0908">
+            <sk>Ľubomíra</sk>
+            <cz>Roman</cz>
+        </day>
+        <day date="1008">
+            <sk>Vavrinec</sk>
+            <cz>Vavřinec</cz>
+        </day>
+        <day date="1108">
+            <sk>Zuzana</sk>
+            <cz>Zuzana</cz>
+        </day>
+        <day date="1208">
+            <sk>Darina</sk>
+            <cz>Klára</cz>
+        </day>
+        <day date="1308">
+            <sk>Ľubomír</sk>
+            <cz>Alena</cz>
+        </day>
+        <day date="1408">
+            <sk>Mojmír</sk>
+            <cz>Alan</cz>
+        </day>
+        <day date="1508">
+            <sk>Marcela</sk>
+            <cz>Hana</cz>
+        </day>
+        <day date="1608">
+            <sk>Leonard</sk>
+            <cz>Jáchym</cz>
+        </day>
+        <day date="1708">
+            <sk>Milica</sk>
+            <cz>Petra</cz>
+        </day>
+        <day date="1808">
+            <sk>Elena, Helena</sk>
+            <cz>Helena</cz>
+        </day>
+        <day date="1908">
+            <sk>Lýdia</sk>
+            <cz>Ludvík</cz>
+        </day>
+        <day date="2008">
+            <sk>Anabela</sk>
+            <cz>Bernard</cz>
+        </day>
+        <day date="2108">
+            <sk>Jana</sk>
+            <cz>Johana</cz>
+        </day>
+        <day date="2208">
+            <sk>Tichomír</sk>
+            <cz>Bohuslav</cz>
+        </day>
+        <day date="2308">
+            <sk>Filip</sk>
+            <cz>Sandra</cz>
+        </day>
+        <day date="2408">
+            <sk>Bartolomej</sk>
+            <cz>Bartoloměj</cz>
+        </day>
+        <day date="2508">
+            <sk>Ľudovít</sk>
+            <cz>Radim</cz>
+        </day>
+        <day date="2608">
+            <sk>Samuel</sk>
+            <cz>Luděk</cz>
+        </day>
+        <day date="2708">
+            <sk>Silvia</sk>
+            <cz>Otakar</cz>
+        </day>
+        <day date="2808">
+            <sk>Augustín</sk>
+            <cz>Augustýn</cz>
+        </day>
+        <day date="2908">
+            <sk>Nikola, Nikolaj</sk>
+            <cz>Evelína</cz>
+            <skHoliday>Výročie Slovenského národného povstania</skHoliday>
+        </day>
+        <day date="3008">
+            <sk>Ružena</sk>
+            <cz>Vladěna</cz>
+        </day>
+        <day date="3108">
+            <sk>Nora</sk>
+            <cz>Pavlína</cz>
+        </day>
+        <day date="0109">
+            <sk>Drahoslava</sk>
+            <cz>Linda, Samuel</cz>
+            <skHoliday>Deň ústavy Slovenskej republiky</skHoliday>
+        </day>
+        <day date="0209">
+            <sk>Linda, Rebeka</sk>
+            <cz>Adéla</cz>
+        </day>
+        <day date="0309">
+            <sk>Belo</sk>
+            <cz>Bronislav</cz>
+        </day>
+        <day date="0409">
+            <sk>Rozália</sk>
+            <cz>Jindřiška</cz>
+        </day>
+        <day date="0509">
+            <sk>Regina</sk>
+            <cz>Boris</cz>
+        </day>
+        <day date="0609">
+            <sk>Alica</sk>
+            <cz>Boleslav</cz>
+        </day>
+        <day date="0709">
+            <sk>Marianna</sk>
+            <cz>Regína</cz>
+        </day>
+        <day date="0809">
+            <sk>Miriama</sk>
+            <cz>Mariana</cz>
+        </day>
+        <day date="0909">
+            <sk>Martina</sk>
+            <cz>Daniela</cz>
+        </day>
+        <day date="1009">
+            <sk>Oleg</sk>
+            <cz>Irma</cz>
+        </day>
+        <day date="1109">
+            <sk>Bystrík</sk>
+            <cz>Denisa, Denis</cz>
+        </day>
+        <day date="1209">
+            <sk>Mária</sk>
+            <cz>Marie</cz>
+        </day>
+        <day date="1309">
+            <sk>Ctibor</sk>
+            <cz>Lubor</cz>
+        </day>
+        <day date="1409">
+            <sk>Ľudomil</sk>
+            <cz>Radka</cz>
+        </day>
+        <day date="1509">
+            <sk>Jolana</sk>
+            <cz>Jolana</cz>
+            <skHoliday>Sedembolestná Panna Mária</skHoliday>
+        </day>
+        <day date="1609">
+            <sk>Ľudmila</sk>
+            <cz>Ludmila</cz>
+        </day>
+        <day date="1709">
+            <sk>Olympia</sk>
+            <cz>Naděžda</cz>
+        </day>
+        <day date="1809">
+            <sk>Eugénia</sk>
+            <cz>Kryštof</cz>
+        </day>
+        <day date="1909">
+            <sk>Konštantín</sk>
+            <cz>Zita</cz>
+        </day>
+        <day date="2009">
+            <sk>Ľuboslav, Ľuboslava</sk>
+            <cz>Oleg</cz>
+        </day>
+        <day date="2109">
+            <sk>Matúš</sk>
+            <cz>Matouš</cz>
+        </day>
+        <day date="2209">
+            <sk>Móric</sk>
+            <cz>Darina</cz>
+        </day>
+        <day date="2309">
+            <sk>Zdenka</sk>
+            <cz>Berta</cz>
+        </day>
+        <day date="2409">
+            <sk>Ľuboš, Ľubor</sk>
+            <cz>Jaromír</cz>
+        </day>
+        <day date="2509">
+            <sk>Vladislav</sk>
+            <cz>Zlata</cz>
+        </day>
+        <day date="2609">
+            <sk>Edita</sk>
+            <cz>Andrea</cz>
+        </day>
+        <day date="2709">
+            <sk>Cyprián</sk>
+            <cz>Jonáš</cz>
+        </day>
+        <day date="2809">
+            <sk>Václav</sk>
+            <cz>Václav</cz>
+            <czHoliday>Den české státnosti</czHoliday>
+        </day>
+        <day date="2909">
+            <sk>Michal, Michaela</sk>
+            <cz>Michal</cz>
+        </day>
+        <day date="3009">
+            <sk>Jarolím</sk>
+            <cz>Jeroným</cz>
+        </day>
+        <day date="0110">
+            <sk>Arnold</sk>
+            <cz>Igor</cz>
+        </day>
+        <day date="0210">
+            <sk>Levoslav</sk>
+            <cz>Olívie, Oliver</cz>
+        </day>
+        <day date="0310">
+            <sk>Stela</sk>
+            <cz>Bohumil</cz>
+        </day>
+        <day date="0410">
+            <sk>František</sk>
+            <cz>František</cz>
+        </day>
+        <day date="0510">
+            <sk>Viera</sk>
+            <cz>Eliška</cz>
+        </day>
+        <day date="0610">
+            <sk>Natália</sk>
+            <cz>Hanuš</cz>
+        </day>
+        <day date="0710">
+            <sk>Eliška</sk>
+            <cz>Justýna</cz>
+        </day>
+        <day date="0810">
+            <sk>Brigita</sk>
+            <cz>Věra</cz>
+        </day>
+        <day date="0910">
+            <sk>Dionýz</sk>
+            <cz>Štefan, Sára</cz>
+        </day>
+        <day date="1010">
+            <sk>Slavomíra</sk>
+            <cz>Marina</cz>
+        </day>
+        <day date="1110">
+            <sk>Valentína</sk>
+            <cz>Andrej</cz>
+        </day>
+        <day date="1210">
+            <sk>Maximilián</sk>
+            <cz>Marcel</cz>
+        </day>
+        <day date="1310">
+            <sk>Koloman</sk>
+            <cz>Renáta</cz>
+        </day>
+        <day date="1410">
+            <sk>Boris</sk>
+            <cz>Agáta</cz>
+        </day>
+        <day date="1510">
+            <sk>Terézia</sk>
+            <cz>Tereza</cz>
+        </day>
+        <day date="1610">
+            <sk>Vladimíra</sk>
+            <cz>Havel</cz>
+        </day>
+        <day date="1710">
+            <sk>Hedviga</sk>
+            <cz>Hedvika</cz>
+        </day>
+        <day date="1810">
+            <sk>Lukáš</sk>
+            <cz>Lukáš</cz>
+        </day>
+        <day date="1910">
+            <sk>Kristián</sk>
+            <cz>Michaela</cz>
+        </day>
+        <day date="2010">
+            <sk>Vendelín</sk>
+            <cz>Vendelin</cz>
+        </day>
+        <day date="2110">
+            <sk>Uršuľa</sk>
+            <cz>Brigita</cz>
+        </day>
+        <day date="2210">
+            <sk>Sergej</sk>
+            <cz>Sabina</cz>
+        </day>
+        <day date="2310">
+            <sk>Alojzia</sk>
+            <cz>Teodora</cz>
+        </day>
+        <day date="2410">
+            <sk>Kvetoslava</sk>
+            <cz>Nina</cz>
+        </day>
+        <day date="2510">
+            <sk>Aurel</sk>
+            <cz>Beáta</cz>
+        </day>
+        <day date="2610">
+            <sk>Demeter</sk>
+            <cz>Erik</cz>
+        </day>
+        <day date="2710">
+            <sk>Sabína</sk>
+            <cz>Šarlota</cz>
+        </day>
+        <day date="2810">
+            <sk>Dobromila</sk>
+            <czHoliday>Den vzniku samostatného Československého státu - 1918</czHoliday>
+        </day>
+        <day date="2910">
+            <sk>Klára</sk>
+            <cz>Silvie</cz>
+        </day>
+        <day date="3010">
+            <sk>Šimon, Simona</sk>
+            <cz>Tadeáš</cz>
+        </day>
+        <day date="3110">
+            <sk>Aurélia</sk>
+            <cz>Štěpánka</cz>
+        </day>
+        <day date="0111">
+            <sk>Denis, Denisa</sk>
+            <cz>Felix</cz>
+            <skHoliday>Sviatok všetkých svätých</skHoliday>
+        </day>
+        <day date="0211"/>
+        <day date="0311">
+            <sk>Hubert</sk>
+            <cz>Hubert</cz>
+        </day>
+        <day date="0411">
+            <sk>Karol</sk>
+            <cz>Karel</cz>
+        </day>
+        <day date="0511">
+            <sk>Imrich</sk>
+            <cz>Miriam</cz>
+        </day>
+        <day date="0611">
+            <sk>Renáta</sk>
+            <cz>Liběna</cz>
+        </day>
+        <day date="0711">
+            <sk>René</sk>
+            <cz>Saskia</cz>
+        </day>
+        <day date="0811">
+            <sk>Bohumír</sk>
+            <cz>Bohumir</cz>
+        </day>
+        <day date="0911">
+            <sk>Teodor</sk>
+            <cz>Bohdan</cz>
+        </day>
+        <day date="1011">
+            <sk>Tibor</sk>
+            <cz>Evžen</cz>
+        </day>
+        <day date="1111">
+            <sk>Martin, Maroš</sk>
+            <cz>Martin</cz>
+        </day>
+        <day date="1211">
+            <sk>Svätopluk</sk>
+            <cz>Benedikt</cz>
+        </day>
+        <day date="1311">
+            <sk>Stanislav</sk>
+            <cz>Tibor</cz>
+        </day>
+        <day date="1411">
+            <sk>Irma</sk>
+            <cz>Sáva</cz>
+        </day>
+        <day date="1511">
+            <sk>Leopold</sk>
+            <cz>Leopold</cz>
+            <czHoliday>Den boje studentů za svobodu a demokracii - 1989</czHoliday>
+        </day>
+        <day date="1611">
+            <sk>Agnesa</sk>
+            <cz>Otmar, Maulena</cz>
+        </day>
+        <day date="1711">
+            <sk>Klaudia</sk>
+            <cz>Mahulena</cz>
+            <skHoliday>Deň boja za slobodu a demokraciu</skHoliday>
+        </day>
+        <day date="1811">
+            <sk>Eugen</sk>
+            <cz>Romana</cz>
+        </day>
+        <day date="1911">
+            <sk>Alžbeta</sk>
+            <cz>Alžběta</cz>
+        </day>
+        <day date="2011">
+            <sk>Félix</sk>
+            <cz>Nikol, Nikola</cz>
+        </day>
+        <day date="2111">
+            <sk>Elvíra</sk>
+            <cz>Albert</cz>
+        </day>
+        <day date="2211">
+            <sk>Cecília</sk>
+            <cz>Cecílie</cz>
+        </day>
+        <day date="2311">
+            <sk>Klement</sk>
+            <cz>Klement</cz>
+        </day>
+        <day date="2411">
+            <sk>Emília</sk>
+            <cz>Emílie</cz>
+        </day>
+        <day date="2511">
+            <sk>Katarína</sk>
+            <cz>Kateřina</cz>
+        </day>
+        <day date="2611">
+            <sk>Kornel</sk>
+            <cz>Artur</cz>
+        </day>
+        <day date="2711">
+            <sk>Milan</sk>
+            <cz>Xenie</cz>
+        </day>
+        <day date="2811">
+            <sk>Henrieta</sk>
+            <cz>René</cz>
+        </day>
+        <day date="2911">
+            <sk>Vratko</sk>
+            <cz>Zina</cz>
+        </day>
+        <day date="3011">
+            <sk>Ondrej, Andrej</sk>
+            <cz>Ondřej</cz>
+        </day>
+        <day date="0112">
+            <sk>Edmund</sk>
+            <cz>Iva</cz>
+        </day>
+        <day date="0212">
+            <sk>Bibiána</sk>
+            <cz>Blanka</cz>
+        </day>
+        <day date="0312">
+            <sk>Oldrich</sk>
+            <cz>Svatoslav</cz>
+        </day>
+        <day date="0412">
+            <sk>Barbora, Barbara</sk>
+            <cz>Barbora</cz>
+        </day>
+        <day date="0512">
+            <sk>Oto</sk>
+            <cz>Jitka</cz>
+        </day>
+        <day date="0612">
+            <sk>Mikuláš</sk>
+            <cz>Mikuláš</cz>
+        </day>
+        <day date="0712">
+            <sk>Ambróz</sk>
+            <cz>Benjamín</cz>
+        </day>
+        <day date="0812">
+            <sk>Marína</sk>
+            <cz>Květoslava</cz>
+        </day>
+        <day date="0912">
+            <sk>Izabela</sk>
+            <cz>Vratislav</cz>
+        </day>
+        <day date="1012">
+            <sk>Radúz</sk>
+            <cz>Julie</cz>
+        </day>
+        <day date="1112">
+            <sk>Hilda</sk>
+            <cz>Dana</cz>
+        </day>
+        <day date="1212">
+            <sk>Otília</sk>
+            <cz>Simona</cz>
+        </day>
+        <day date="1312">
+            <sk>Lucia</sk>
+            <cz>Lucie</cz>
+        </day>
+        <day date="1412">
+            <sk>Branislava, Bronislava</sk>
+            <cz>Lýdie</cz>
+        </day>
+        <day date="1512">
+            <sk>Ivica</sk>
+            <cz>Radana</cz>
+        </day>
+        <day date="1612">
+            <sk>Albína</sk>
+            <cz>Albína</cz>
+        </day>
+        <day date="1712">
+            <sk>Kornélia</sk>
+            <cz>Daniel</cz>
+        </day>
+        <day date="1812">
+            <sk>Sláva</sk>
+            <cz>Miloslav</cz>
+        </day>
+        <day date="1912">
+            <sk>Judita</sk>
+            <cz>Ester</cz>
+        </day>
+        <day date="2012">
+            <sk>Dagmara</sk>
+            <cz>Dagmar</cz>
+        </day>
+        <day date="2112">
+            <sk>Bohdan</sk>
+            <cz>Natálie</cz>
+        </day>
+        <day date="2212">
+            <sk>Adela</sk>
+            <cz>Šimon</cz>
+        </day>
+        <day date="2312">
+            <sk>Nadežda</sk>
+            <cz>Vlasta</cz>
+        </day>
+        <day date="2412">
+            <sk>Adam, Eva</sk>
+            <cz>Adam, Eva</cz>
+            <skHoliday>Štedrý deň</skHoliday>
+            <czHoliday>Štědrý den</czHoliday>
+        </day>
+        <day date="2512">
+            <skHoliday>Prvý sviatok vianočný</skHoliday>
+            <czHoliday>Svátek vánoční 1</czHoliday>
+        </day>
+        <day date="2612">
+            <sk>Štefan</sk>
+            <cz>Štěpán</cz>
+            <skHoliday>Druhý sviatok vianočný</skHoliday>
+            <czHoliday>Svátek vánoční 2</czHoliday>
+        </day>
+        <day date="2712">
+            <sk>Filoména</sk>
+            <cz>Žaneta</cz>
+        </day>
+        <day date="2812">
+            <sk>Ivana, Ivona</sk>
+            <cz>Bohumila</cz>
+        </day>
+        <day date="2912">
+            <sk>Milada</sk>
+            <cz>Judita</cz>
+        </day>
+        <day date="3012">
+            <sk>Dávid</sk>
+            <cz>David</cz>
+        </day>
+        <day date="3112">
+            <sk>Silvester</sk>
+            <cz>Silvestr</cz>
+        </day>
+    </namesday>
+</ns2:namesday>
